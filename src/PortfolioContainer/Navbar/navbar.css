@@ -1,0 +1,14 @@
+.bg-custom-color {
+    background-color: rgba(110, 169, 232, 0.943) !important;  
+  }
+.porfolio{
+    align-items: center;
+    justify-content: center;
+    text-decoration: dotted;
+}
+li:hover{
+    text-decoration: underline;
+}
+li{
+    font-weight: 400 !important
+}

@@ -1,0 +1,31 @@
+.red-line{
+    width: 50%;
+    margin: 0 auto;
+}
+.sidebar {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 450px;
+    background-color: #f8f9fa; /* Sidebar background color */
+    padding: 20px;
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
+  .active-content {
+    display: block;
+  }
+.info{
+    
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.shadow-lg{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 10);
+}
+.sidebar{
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+  
